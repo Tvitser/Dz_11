@@ -23,7 +23,7 @@ p {
 }
 
 a {
-
+text-decoration:none
 }
 
 /* Колонки */
@@ -43,7 +43,13 @@ flex:auto
 }
 
 .button {
-
+text-align:center;
+padding:10px;
+margin-top:10px;
+color:#FFFFFF;
+background-color:#554AF0;
+border-radius:5px;
+border:solid 2px #FFFFFF
 }
 
 /* Потом специальные правила по страничкам */
@@ -51,7 +57,11 @@ flex:auto
 /* Login*/
 
 .input-login {
-
+margin-top:15px;
+width:100%;
+height:40px;
+border-radius:5px;
+border:solid 2px #d2d9d5
 
 }
 
@@ -100,5 +110,11 @@ margin-bottom:10px
 }
 
 .button-link {
-
+text-align:center;
+padding:8px;
+margin-top:10px;
+color:#FFFFFF;
+background-color:#554AF0;
+border-radius:5px;
+border:solid 2px #FFFFFF
 }
