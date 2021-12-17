@@ -13,13 +13,14 @@ html {
 main {
     width: 300px;
     margin: 0px auto;
+    font-family:Arial
 }
 h2{
 font-family:Arial
 }
 
 p {
-
+font-size:11px
 }
 
 a {
@@ -98,15 +99,26 @@ margin-bottom:10px
 /* Страничка подписки  */
 
 .box-green {
-
+background-color:#E1F5EA;
+width:100%;
+padding-top:1px;
+padding-bottom:5px;
+padding-left:15px;
+border-radius:5px;
 }
 
 .box-purple {
-
+background-color:#EBDCF9;
+width:100%;
+padding-top:1px;
+padding-bottom:5px;
+padding-left:15px;
+border-radius:5px;
 }
 
 .text-large {
-
+font-size:20px;
+font-weight:bold;
 }
 
 .button-link {
@@ -116,5 +128,5 @@ margin-top:10px;
 color:#FFFFFF;
 background-color:#554AF0;
 border-radius:5px;
-border:solid 2px #FFFFFF
+border:solid 2px #FFFFFF;
 }
