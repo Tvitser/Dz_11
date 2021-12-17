@@ -70,23 +70,39 @@ border:solid 2px #d2d9d5
 /* Страничка жанров и тегов */
 
 .genre-first {
-
+width:100%;
+border-radius:5px;
+background-color:#E1F5EA;
+margin:5px;
+padding:5px;
 }
 
 .genre-second {
-
+width:75%;
+border-radius:5px;
+background-color:#CBEDFF;
+margin:5px;
+padding:5px;
 }
 
 .genre-third {
-
+width:50%;
+border-radius:5px;
+background-color:#FBECDD;
+margin:5px;
+padding:5px;
 }
 
 .genre-fourth {
-
+width:25%;
+border-radius:5px;
+background-color:#EBDCF9;
+margin:5px;
+padding:5px;
 }
 
 .tag {
-
+text-decoration:underline;
 }
 
 /* Страничка популярного */
